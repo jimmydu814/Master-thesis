@@ -1,0 +1,2 @@
+input_filename,genome_build,raw_variants,retained_variants,filtered_variants,flagged_variants,total_missing_values,invalid_chromosome,invalid_position,invalid_p,p_equals_zero,invalid_direction,malformed_hetpval,hetpval_out_of_range,malformed_hetisq,hetisq_out_of_range,duplicate_variant_id_extra_rows,duplicate_chr_pos_extra_rows,min_p,genome_wide_significant,suggestive_only,lambda_gc
+braak_Shade_2024_p-valueOnly.txt,GRCh38,9029098,9029098,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.695999999999999e-89,98,126,0.9879229292543285

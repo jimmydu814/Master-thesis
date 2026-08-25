@@ -1,0 +1,2 @@
+input_filename,genome_build,raw_variants,retained_variants,filtered_variants,flagged_variants,total_missing_values,invalid_chromosome,invalid_position,invalid_p,p_equals_zero,invalid_direction,malformed_hetpval,hetpval_out_of_range,malformed_hetisq,hetisq_out_of_range,duplicate_variant_id_extra_rows,duplicate_chr_pos_extra_rows,min_p,genome_wide_significant,suggestive_only,lambda_gc
+diffuse_abeta_Shade_2024_p-valueOnly.txt,GRCh38,8869314,8869314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.314e-55,69,96,0.9851510100530106

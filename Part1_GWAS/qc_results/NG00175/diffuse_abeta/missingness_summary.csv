@@ -1,0 +1,15 @@
+column,missing_count,missing_percent
+chr,0,0.0
+pos,0,0.0
+MarkerName,0,0.0
+Allele1,0,0.0
+Allele2,0,0.0
+P.value,0,0.0
+Direction,0,0.0
+HetISq,0,0.0
+HetChiSq,0,0.0
+HetDf,0,0.0
+HetPVal,0,0.0
+NACC_direction,0,0.0
+ACT_direction,0,0.0
+ROSMAP_direction,0,0.0

@@ -1,0 +1,38 @@
+# -------------------------
+# Part1_GWAS data
+# -------------------------
+
+Part1_GWAS/data_raw/
+Part1_GWAS/data_clean/
+Part1_GWAS/data_processed/
+
+# Full GWAS files prepared for FUMA
+Part1_GWAS/fuma_input/
+
+# Large LD reference panel
+Part1_GWAS/reference/
+
+# Keep QC folder, but ignore large per-variant QC outputs
+Part1_GWAS/qc_results/**/flagged_variants.tsv
+Part1_GWAS/qc_results/**/flagged_variants.tsv.gz
+Part1_GWAS/qc_results/**/*.log
+
+# -------------------------
+# Python / temporary files
+# -------------------------
+
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+
+# -------------------------
+# OS / editor files
+# -------------------------
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

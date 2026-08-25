@@ -1,0 +1,2 @@
+study,phenotype,input_file,genome_wide_threshold,suggestive_threshold,genome_wide_significant_variants,suggestive_only_variants
+NG00175,diffuse_abeta,diffuse_abeta.cleaned.tsv,5e-08,1e-05,69,96
